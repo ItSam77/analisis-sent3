@@ -1,1 +1,1 @@
-print ("a")
+print ("aku sayang semua orang")

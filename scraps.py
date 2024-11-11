@@ -1,3 +1,4 @@
-print ("aku sayang semua orang")
-print ('aaa')
-print ('anjing lu woi')
+from selenium import webdriver
+import time
+import sys
+from selenium.webdriver.common.by import By

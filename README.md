@@ -3,3 +3,4 @@ Disini kita akan melakukan analisis sentimen komentar dari postingan Fabrizio Ro
 link Instagram : https://www.instagram.com/p/DBrvCMVoKZ3/
 Langkah-Langkah : 
 1. Scraping data
+2.

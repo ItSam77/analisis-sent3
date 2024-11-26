@@ -4,3 +4,5 @@ link Instagram : https://www.instagram.com/p/DBrvCMVoKZ3/
 Langkah-Langkah : 
 1. Scraping data
 2. gpegang bangkit
+
+project nnn pending dulu. bangkit soalnya

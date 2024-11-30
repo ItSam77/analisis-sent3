@@ -6,3 +6,4 @@ Langkah-Langkah :
 2. gpegang bangkit
 
 project nnn pending dulu. bangkit soalnya
+pending dluu
